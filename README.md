@@ -1,4 +1,3 @@
-Here's your **`README.md`** file for the **Ghibli Art Generator** project:
 
 ```md
 # 🎨 Ghibli Art Generator
