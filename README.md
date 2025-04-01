@@ -78,9 +78,9 @@ Ghibli-Art-Generator/
   ```
 - Open the **browser console** (`F12`) for errors.
 
-## 🤝 Contributing
 
-Harshit
+
+
 
 ## 📜 License
 
