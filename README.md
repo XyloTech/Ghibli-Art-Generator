@@ -93,13 +93,16 @@ This project is open-source and available under the **MIT License**.
 
 ---
 
+![ChatGPT Image Mar 29, 2025, 01_07_42 AM](https://github.com/user-attachments/assets/afb8769d-df76-4342-a4f2-14fa3bcbfe1a)
+
+![ChatGPT Image Mar 29, 2025, 03_49_43 AM](https://github.com/user-attachments/assets/176bea1c-d215-4cb2-9e43-64ea99f57cdd)
+
+![WhatsApp Image 2025-04-01 at 09 28 21_7a47f652](https://github.com/user-attachments/assets/effac9e9-8b49-4600-a3ec-328dd37c18b2)
+
+
 Enjoy creating your **Ghibli-style artwork**! 🚀✨
 ```
 
+
+
 This should be a clean and professional `README.md` for your **Ghibli Art Generator** project. Let me know if you want any modifications! 🚀
-![WhatsApp Image 2025-04-01 at 09 28 21_7a47f652](https://github.com/user-attachments/assets/b836c910-1dba-4452-8a91-f74382601448)
-
-![ChatGPT Image Mar 29, 2025, 03_56_52 AM](https://github.com/user-attachments/assets/751a499f-6ee0-4e49-bfff-bad38d31d725)
-![ChatGPT Image Mar 29, 2025, 03_49_43 AM](https://github.com/user-attachments/assets/2519e65d-5e1f-4230-a175-5342e366aad1)
-
-![ChatGPT Image Mar 29, 2025, 01_07_42 AM](https://github.com/user-attachments/assets/de94b721-0ca1-47ed-8948-2ead1dbd3cf6)
