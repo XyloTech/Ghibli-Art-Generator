@@ -105,4 +105,3 @@ Enjoy creating your **Ghibli-style artwork**! 🚀✨
 
 
 
-This should be a clean and professional `README.md` for your **Ghibli Art Generator** project. Let me know if you want any modifications! 🚀
