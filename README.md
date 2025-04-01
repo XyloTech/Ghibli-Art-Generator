@@ -80,11 +80,7 @@ Ghibli-Art-Generator/
 
 ## 🤝 Contributing
 
-1. **Fork** the repository.  
-2. Create a new branch (`git checkout -b feature-name`).  
-3. Commit your changes (`git commit -m "Added new feature"`).  
-4. Push to GitHub (`git push origin feature-name`).  
-5. Submit a **Pull Request**.
+Harshit
 
 ## 📜 License
 
